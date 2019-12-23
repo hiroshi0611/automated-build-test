@@ -1,2 +1,2 @@
 FROM dockersamples/static-site
-ENV AUTHOR="Hiroshi Imaizumi"
+ENV AUTHOR="Hiroshi Imaizumi" 
